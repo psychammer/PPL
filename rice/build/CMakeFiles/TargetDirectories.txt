@@ -1,0 +1,3 @@
+/mnt/c/Users/RJ/Documents/BSCS 3-1/PPL/Programs/rice/build/CMakeFiles/rice.dir
+/mnt/c/Users/RJ/Documents/BSCS 3-1/PPL/Programs/rice/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/RJ/Documents/BSCS 3-1/PPL/Programs/rice/build/CMakeFiles/rebuild_cache.dir
